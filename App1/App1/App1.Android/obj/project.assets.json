@@ -693,11 +693,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\afahe\\source\\repos\\App1\\App1\\App1.Android\\App1.Android.csproj",
+      "projectUniqueName": "C:\\Users\\afahe\\Documents\\GitHub\\DefuseBomb_Android_game\\App1\\App1\\App1.Android\\App1.Android.csproj",
       "projectName": "App1.Android",
-      "projectPath": "C:\\Users\\afahe\\source\\repos\\App1\\App1\\App1.Android\\App1.Android.csproj",
+      "projectPath": "C:\\Users\\afahe\\Documents\\GitHub\\DefuseBomb_Android_game\\App1\\App1\\App1.Android\\App1.Android.csproj",
       "packagesPath": "C:\\Users\\afahe\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\afahe\\source\\repos\\App1\\App1\\App1.Android\\obj\\",
+      "outputPath": "C:\\Users\\afahe\\Documents\\GitHub\\DefuseBomb_Android_game\\App1\\App1\\App1.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
